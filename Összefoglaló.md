@@ -35,6 +35,7 @@ A testek mozgásával foglalkozik
 * sebesség állandó
 * sem __iránya__ sem __nagysága__ nem változik
 (!képlet!(ek))
+
 ### Egyenes vonalú egyenletesen változó mozgás
 * a = állandó
 * a sebesség iránya állandó, nagysága pedig egyenletesen változik
